@@ -1,0 +1,1 @@
+Hope for the world
