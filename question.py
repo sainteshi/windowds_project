@@ -3,6 +3,7 @@ def find_max(nums):
 
     for num in nums:
         if num > max_num:
-            print(1+2)
-            print(" Lower")
+            max_num=num
     return max_num
+x_list=[23,45,6,1,6]
+print(find_max(x_list))
